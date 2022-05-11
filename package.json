@@ -1,0 +1,8 @@
+{
+    "name": "MCP-TRUFFLE-TEST",
+    "dependencies": {
+      "@truffle/hdwallet-provider": "^1.4.1",
+      "truffle-plugin-verify": "^0.5.12"
+    }
+  }
+  
